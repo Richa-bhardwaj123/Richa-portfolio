@@ -990,10 +990,10 @@ body.offcanvas .colorlib-nav-toggle {
   right: 0;
 }
 .progress-bar.color-1 {
-  background: #2c98f0;
+  background: #5840ba;
 }
 .progress-bar.color-1:after {
-  background: #2c98f0;
+  background: #5840ba;
 }
 .progress-bar.color-1 span {
   color: #2c98f0;
@@ -1068,7 +1068,7 @@ body.offcanvas .colorlib-nav-toggle {
 .colorlib-feature .colorlib-icon i {
   display: table-cell;
   vertical-align: middle;
-  color: #2c98f0;
+  color: #5840ba;
   font-size: 60px;
   height: 100px;
 }
@@ -1098,7 +1098,7 @@ body.offcanvas .colorlib-nav-toggle {
   margin-top: 30px;
 }
 .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-  color: #2c98f0;
+  color: #5840ba;
   font-size: 40px;
 }
 @media screen and (max-width: 1200px) {
@@ -1187,7 +1187,7 @@ body.offcanvas .colorlib-nav-toggle {
   color: #000;
 }
 .work-menu span a.active {
-  color: #2c98f0;
+  color: #5840ba;
 }
 
 .project {
@@ -1207,7 +1207,7 @@ body.offcanvas .colorlib-nav-toggle {
   bottom: 0;
   left: 0;
   right: 0;
-  background: #2c98f0;
+  background: #5840ba;
   opacity: 0;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -1509,25 +1509,25 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .btn-primary {
-  background: #2c98f0;
+  background: #5840ba;
   color: #fff;
-  border: 2px solid #2c98f0;
+  border: 2px solid #5840ba;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-  background: #44a4f2 !important;
-  border-color: #44a4f2 !important;
+  background: #5840ba !important;
+  border-color: #5840ba !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #2c98f0;
-  border: 2px solid #2c98f0;
+  color: #5840ba;
+  border: 2px solid #5840ba;
 }
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-  background: #2c98f0;
+  background: #5840ba;
   color: #fff;
 }
 
